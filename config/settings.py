@@ -128,6 +128,5 @@ CKEDITOR_FILENAME_GENERATOR = 'utils.get_filename'
 CKEDITOR_CONFIGS = {
     'default': {
         'toolbar': 'full',
-
     },
 }
